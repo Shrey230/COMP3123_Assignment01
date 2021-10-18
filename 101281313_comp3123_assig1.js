@@ -3,9 +3,6 @@ const fs = require("fs");
 
 const app = express(); 
 
-app.get('/', (req, res) => {
-    res.send('HOMEPAGE');
-});
 app.get('/user', (req, res) => {
 
     const uid = req.query['uid'];
