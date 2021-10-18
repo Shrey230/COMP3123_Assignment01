@@ -1,0 +1,19 @@
+{
+  "name": "Comp3123_assig1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "101281313_comp3123_assig1.js",
+  "scripts": {
+    "start": "nodemon 101281313_comp3123_assig1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shrey Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
